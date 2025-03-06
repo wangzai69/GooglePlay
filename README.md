@@ -43,10 +43,10 @@
 <br>
 
 ## 🚀 华为Gspace教程
-- 打开手机的 <code>应用市场</code> >右下角 <code>我的</code>
-- 选择 <code>设置</code> >选择 <code>国家地区</code> > 选择 <code>英国</code>
-- 在应用市场搜索 <code>Gspace</code>下载
-- 下载后地区可切换回中国
+- 1、打开手机的 <code>应用市场</code> >右下角 <code>我的</code>
+- 2、选择 <code>设置</code> >选择 <code>国家地区</code> > 选择 <code>英国</code>
+- 3、在应用市场搜索 <code>Gspace</code>下载
+- 4、下载后地区可切换回中国
 
 ### Gspace使用视频教程
 
