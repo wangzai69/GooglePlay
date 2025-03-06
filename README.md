@@ -33,6 +33,11 @@
 - 在手机应用市场下载 <code>play商店</code>
 - 如手机应用市场没有 play商店
 - 请到 <a href="https://apkpure.com/cn/google-play-store/com.android.vending" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 8px; border-radius: 3px;">Apkpure</a> 中下载 <code>Google Play Store</code>
+- GooglePlay需要谷歌邮箱登录，下面是卖谷歌账号的
+- [谷歌账号1](https://www.henduohao.com/)
+- [谷歌账号2](https://gmailbuy.com/)
+- [谷歌账号3](https://accsou.com/)
+
 
 <br>
 <br>
