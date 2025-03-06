@@ -28,6 +28,7 @@
 <br>
 
 ## 🚀 安卓GooglePlay教程（华为在下面）
+教程是官方最新版的GooglePlay，请不要到处找旧版下载或是盗版
 - 1、在手机设置中搜索 <code>谷歌基础服务</code>
 - 2、并 <code>打开</code> 谷歌基础服务功能
 - 3、在手机应用市场下载 <code>play商店</code>
