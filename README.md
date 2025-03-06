@@ -1,4 +1,4 @@
-<h1 align="center">免费官方版谷歌框架</h1>
+<h1 align="center">免费官方版谷歌GooglePlay服务框架（终结篇）</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
