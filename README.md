@@ -53,8 +53,6 @@
 
 ### Gspace使用视频教程
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/A8jOEEf9BRs" frameborder="0" allowfullscreen></iframe>
-
 [![Watch the video](https://img.youtube.com/vi/A8jOEEf9BRs/0.jpg)](https://www.youtube.com/watch?v=A8jOEEf9BRs)
 
 
