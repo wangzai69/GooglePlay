@@ -1,4 +1,4 @@
-<h1 align="center">免费官方版谷歌GooglePlay服务框架（终结篇）</h1>
+<h1 align="center">免费官方版谷歌GooglePlay服务框架（终结篇）实时更新</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
@@ -28,13 +28,24 @@
 <br>
 
 ## 🚀 安卓GooglePlay教程（华为在下面）
-
+- 在手机设置中搜索 <code>谷歌基础服务</code>
+- 并 <code>打开</code> 谷歌基础服务功能
+- 在手机应用市场下载 <code>play商店</code>
+- 如手机应用市场没有 play商店
+- 请到 <a href="https://apkpure.com/cn/google-play-store/com.android.vending" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 8px; border-radius: 3px;">Apkpure</a> 中下载 <code>Google Play Store</code>
 
 <br>
 <br>
 
 ## 🚀 华为Gspace教程
+- 打开手机的 <code>应用市场</code> >右下角 <code>我的</code>
+- 选择 <code>设置</code> >选择 <code>国家地区</code> > 选择 <code>英国</code>
+- 在应用市场搜索 <code>Gspace</code>下载
+- 下载后地区可切换回中国
 
+### Gspace使用视频教程
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/A8jOEEf9BRs" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
