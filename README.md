@@ -28,9 +28,9 @@
 <br>
 
 ## 🚀 安卓GooglePlay教程（华为在下面）
-- 在手机设置中搜索 <code>谷歌基础服务</code>
-- 并 <code>打开</code> 谷歌基础服务功能
-- 在手机应用市场下载 <code>play商店</code>
+- 1、在手机设置中搜索 <code>谷歌基础服务</code>
+- 2、并 <code>打开</code> 谷歌基础服务功能
+- 3、在手机应用市场下载 <code>play商店</code>
 - 如手机应用市场没有 play商店
 - 请到 <a href="https://apkpure.com/cn/google-play-store/com.android.vending" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 8px; border-radius: 3px;">Apkpure</a> 中下载 <code>Google Play Store</code>
 - GooglePlay需要谷歌邮箱登录，下面是卖谷歌账号的
