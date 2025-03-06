@@ -43,7 +43,8 @@
 <br>
 <br>
 
-## 🚀 华为Gspace教程
+## 🚀 华为荣耀Gspace教程
+华为荣耀属于独立监管系统，没有正版GooglePlay，有也是破解版，如果用破解版还不如用Gspace更安全，Gspace就是一个镜像GooglePlay的app，它里面的GooglePlay就是正版。
 - 1、打开手机的 <code>应用市场</code> >右下角 <code>我的</code>
 - 2、选择 <code>设置</code> >选择 <code>国家地区</code> > 选择 <code>英国</code>
 - 3、在应用市场搜索 <code>Gspace</code>下载
