@@ -23,7 +23,7 @@
 ## 📖 专题外链 | Topic link  
 ##### [2025精选翻墙科学上网（终结篇）实时更新](https://github.com/wangzai69/vpn)
 ##### [2025官方clash镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
-##### [2025官方版小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
+##### [2025ios小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 ##### [2025官方版谷歌GooglePlay服务框架（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
 ##### [更多文章更新中 ... ]()
 
