@@ -21,7 +21,7 @@
 <br>
 
 ## 📖 专题外链 | Topic link  
-##### [2025精选翻墙机场科学上网梯子节点（终结篇）实时更新](https://github.com/wangzai69/vpn)
+##### [2025精选翻墙科学上网梯子节点（终结篇）实时更新](https://github.com/wangzai69/vpn)
 ##### [2025官方clash镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
 ##### [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 ##### [2025官方版谷歌GooglePlay服务框架（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
@@ -31,7 +31,7 @@
 
 ## 🚀 安卓GooglePlay教程（华为在下面）
 教程是官方最新版的GooglePlay，请不要到处找旧版下载或是盗版
-- 1、在手机设置中搜索 **谷歌基础服务**
+- 1、在手机设置中搜索 ```基础服务```
 - 2、并 **打开** 谷歌基础服务功能
 - 3、在手机应用市场下载 <code>play商店</code>
 - 如手机应用市场没有 play商店
