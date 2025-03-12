@@ -1,4 +1,4 @@
-# 2025官方谷歌商店 GooglePlay服务框架（终结篇）实时更新
+# 2025官方谷歌框架GooglePlay商店服务（终结篇）实时更新
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
