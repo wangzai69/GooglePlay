@@ -3,9 +3,8 @@
 
 #
 
-<br>
 
-## 🚀 安卓GooglePlay教程（华为在下面）
+#### 🚀 安卓GooglePlay教程（华为在下面）
 教程是官方最新版的GooglePlay，请不要到处找旧版下载或是盗版
 - 1、在手机设置中搜索 ```基础服务```
 - 2、并 **打开** 谷歌基础服务功能
@@ -21,7 +20,7 @@
 <br>
 <br>
 
-## 🚀 华为荣耀Gspace教程
+#### 🚀 华为荣耀Gspace教程
 华为荣耀属于独立监管系统，没有正版GooglePlay，有也是破解版，如果用破解版还不如用Gspace更安全，Gspace就是一个镜像GooglePlay的app，它里面的GooglePlay就是正版。
 - 1、打开手机的 <code>应用市场</code> >右下角 <code>我的</code>
 - 2、选择 <code>设置</code> >选择 <code>国家地区</code> > 选择 <code>英国</code>
@@ -29,7 +28,7 @@
 - 注意：这时在应用市场下载的国外app，安装后手机是不支持的，因为你的手机没有谷歌框架
 - 4、下载后地区可切换回中国
 
-### Gspace使用视频教程
+#### Gspace使用视频教程
 
 [![Watch the video](https://img.youtube.com/vi/A8jOEEf9BRs/0.jpg)](https://www.youtube.com/watch?v=A8jOEEf9BRs)
 
